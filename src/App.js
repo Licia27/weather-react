@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
             
-          <a href="=weather-react-hx4b1cz8t-licia27s-projects.vercel.app&projectName=weather-react&s=https%3A%2F%2Fgithub.com%2FLicia27%2Fweather-react&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&slug=app-future&slug=en-US&slug=new&slug=licia27s-projects&slug=success"
+          <a href="https://weather-react-69vo.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
